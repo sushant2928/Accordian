@@ -1,0 +1,16 @@
+.faq-container {
+  margin: 0.5rem;
+}
+.faq-label {
+  border: 1px solid black;
+  padding: 1rem;
+  width: 5rem;
+}
+.faq-detail {
+  display: none;
+  border: 1px solid black;
+  padding: 1rem;
+}
+.show {
+  display: block !important;
+}
